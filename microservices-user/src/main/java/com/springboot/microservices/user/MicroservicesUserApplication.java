@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 @SpringBootApplication
 
-//@ComponentScan(basePackages = "com.springboot", 
+//@ComponentScan(basePackages = "com.springboot"
 //excludeFilters = @Filter(classes = {UserController.class, UserService.class}) )
 public class MicroservicesUserApplication {
 
